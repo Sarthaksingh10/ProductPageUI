@@ -1,7 +1,7 @@
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import List from "./List";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import myimage from '/Users/ASUS/PracticingReact/13PracticeProject/vite-project/src/assets/image-avatar.png'
+import myimage from '/Users/ASUS/PracticingReact/13PracticeProject/vite-project/src/assets/image-avatar.jpg'
 export default function Header() {
     return (
       <div className="w-[80%] mx-32">
